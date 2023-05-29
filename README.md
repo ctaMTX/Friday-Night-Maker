@@ -1,4 +1,4 @@
-![char made in friday night maker example](images/LOL.png)
+![char made in friday night maker example](Screenshot_20230529_161031.jpg)
 
 # It's as shrimple as that
 
